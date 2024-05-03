@@ -30,7 +30,7 @@ const me = new Matita_IT4();
 ```
 
 ## About Me
-Sono un Ragazzo,che gli piace programmare in Java, Python, HTML, CSS, Nato a Roma. Sono simpatico ed adesso sto lavorando per @Coral
+Sono un ragazzo a cui piace programmare in Java, Python, HTML, CSS, Nato a Roma. Sono simpatico ed adesso sto lavorando per @Coral
 
 
 ## My Statistics
