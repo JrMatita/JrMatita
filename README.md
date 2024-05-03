@@ -29,6 +29,10 @@ class Matita_IT4 extends Profile {
 const me = new Matita_IT4();
 ```
 
+## About Me
+Sono un Ragazzo di 14 anni che gli piace programmare in Java, Python, HTML, CSS, Nato a Roma il 19 aprile del 2010. Sono simpatico ed adesso sto lavorando per @Coral
+
+
 ## My Statistics
 
 <br/>
@@ -40,5 +44,3 @@ const me = new Matita_IT4();
 </p>
 <br>
 
-## About Me
-Sono un Ragazzo di 14 anni che gli piace programmare in Java, Python, HTML, CSS, Nato a Roma il 19 aprile del 2010. Sono simpatico ed adesso sto lavorando per @Coral
