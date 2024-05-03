@@ -33,8 +33,8 @@ const me = new Matita_IT4();
 <br/>
 <p align="left">
   <a href="https://github.com/Jrmatita/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=raffreddat0&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raffreddat0&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Matita_IT4&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matita_IT4&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
