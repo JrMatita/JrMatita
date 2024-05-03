@@ -1,11 +1,16 @@
-    
-    
-    getServer().getPluginManager().registerEvents(new PlayerMoveEvent(), this);
-    getServer().getPluginManager().registerEvents(new PlayerInteractEvent(), this);
+class Matita_IT4 extends JavaPlugin {
+  constructor() {
+    this.name = "Mattia";
+    this.username = "Matita_IT4";
+    this.location = "Italy";
+    this.languages = ["JavaScript","Java", "Python", "HTML", "CSS"];
+    this.discord = "matita12";
+  }
+  name() {
+    return this.name;
+  }
+}
 
-    
-    this.getCommand("Inizia").setExecutor(new inizia());
-    this.getCommand("Vai").setExecutor(new Vai());
-    this.getCommand("Non Fermarti").setExecutor(new Non fermarti());
+const me = new Matita_IT4();    
 
 
