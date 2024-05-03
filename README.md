@@ -1,5 +1,4 @@
-
-
+    
     
     getServer().getPluginManager().registerEvents(new PlayerMoveEvent(), this);
     getServer().getPluginManager().registerEvents(new PlayerInteractEvent(), this);
