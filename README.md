@@ -43,6 +43,8 @@ const me = new Matita_IT4();
   <a href="https://github.com/Jrmatita/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JrMatita&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JrMatita&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatita&show_icons=true&theme=vue-dark)" />
+
   </a>
 </p>
 <br>
