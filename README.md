@@ -32,7 +32,7 @@ const me = new Matita_IT4();
 ## Language Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatita&show_icons=true&theme=vue-dark)
-
+This is my language With which I program, but not only, in fact other repositories regarding other programming languages ​​such as HTML, CSS will soon arrive. Sometimes I can create websites for you or simply ask you questions about the language and how to learn Java Contacts Discord @Matita_IT4, Telegram @Mare12K
 
 
 
@@ -43,7 +43,7 @@ const me = new Matita_IT4();
   <a href="https://github.com/Jrmatita/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JrMatita&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JrMatita&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatita&show_icons=true&theme=vue-dark)" />
+    
 
   </a>
 </p>
