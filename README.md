@@ -30,7 +30,7 @@ const me = new Matita_IT4();
 ```
 
 ## Language Stats
-<p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatita&show_icons=true&theme=vue-dark)
 
 
