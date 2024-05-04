@@ -31,7 +31,7 @@ const me = new Matita_IT4();
 
 ## Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatita&show_icons=true&theme=vue-dark)
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=JrMatita&theme=vue-dark)](https://github.com/FajarKim/github-readme-profile)
+
 
 
 
