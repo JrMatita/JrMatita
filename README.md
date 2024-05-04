@@ -29,8 +29,8 @@ class Matita_IT4 extends Profile {
 const me = new Matita_IT4();
 ```
 
-## About Me
-Sono un ragazzo a cui piace programmare in Java, Python, HTML, CSS, Nato a Roma. Sono simpatico ed adesso sto lavorando per @Coral
+## Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JrMatita&show_icons=true&theme=vue-dark)
 
 
 ## My Statistics
