@@ -29,10 +29,6 @@ class Matita_IT4 extends Profile {
 const me = new Matita_IT4();
 ```
 
-## Discord
-<a href="<a href="https://discord.gg/aeptqYTvj9">
-         <img alt="LegnoMc" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
-</a>">
 
 ## 👋 Welcome Everyone 👋
 
