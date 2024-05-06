@@ -29,6 +29,11 @@ class Matita_IT4 extends Profile {
 const me = new Matita_IT4();
 ```
 
+## Discord
+<a href="<a href="https://discord.gg/aeptqYTvj9">
+         <img alt="LegnoMc" src="https://discord.com/api/guilds/289587909051416579/widget.png?style=banner2">
+</a>">
+
 ## 👋 Welcome Everyone 👋
 
 This is my language With which I program, but not only, in fact other repositories regarding other programming languages ​​such as HTML, CSS will soon arrive. Sometimes I can create websites for you or simply ask you questions about the language and how to learn Java Contacts Discord @Matita_IT4, Telegram @Mare12K, or simply exchange a few words, Attention I don't accept proposals from developers because I'm now working for coralmc I will let you know when I can accept proposals from developers!
