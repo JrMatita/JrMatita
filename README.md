@@ -1,3 +1,6 @@
+![GitHub Followers](https://img.shields.io/github/followers/Mikk4eee?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Mikk4eee?label=Stars&style=social)
+
 <h1 align="center">
   <b>Matita_IT4</b>
 </h1>
